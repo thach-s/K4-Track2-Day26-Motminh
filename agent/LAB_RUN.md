@@ -73,12 +73,11 @@ hay guardrails đã được chạy trên mọi câu trả lời. Không sửa k
 make test
 .venv/bin/python -m unittest agent.test_defense eval.test_detectors -v
 make validate
-make submit TEAM=DauVanThach-2A202602592
+make submit TEAM=Motminh
 ```
 
-Bundle: `submissions/DauVanThach-2A202602592.bundle`.
-Tên đội ở trên là tên mặc định theo thông tin thành viên; thay TEAM nếu phụ
-trách quy định tên khác. File teammates.md ở root vẫn được giữ; bản sao trong
+Bundle: `submissions/Motminh.bundle`.
+Tên đội: `Motminh`. File teammates.md ở root vẫn được giữ; bản sao trong
 agent/ cũng được bundle vì kit.submit chỉ đóng gói agent/deck/eval.
 
 ## 5. Thiết lập lại trên máy khác

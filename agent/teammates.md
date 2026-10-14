@@ -1,4 +1,4 @@
-# Thành viên nhóm
+# Thành viên đội Motminh
 
 | Họ và tên | Mã sinh viên |
 |---|---|

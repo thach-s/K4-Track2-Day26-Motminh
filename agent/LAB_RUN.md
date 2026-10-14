@@ -78,7 +78,7 @@ make submit TEAM=Motminh
 
 Bundle: `submissions/Motminh.bundle`.
 Tên đội: `Motminh`. File teammates.md ở root vẫn được giữ; bản sao trong
-agent/ cũng được bundle vì kit.submit chỉ đóng gói agent/deck/eval.
+agent/TEAMMATES.md cũng được bundle vì kit.submit chỉ đóng gói agent/deck/eval.
 
 ## 5. Thiết lập lại trên máy khác
 

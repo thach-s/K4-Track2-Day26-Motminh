@@ -12,7 +12,7 @@
   nhúng và nêu bất đồng giữa các nguồn.
 - `telemetry.py`: ghi thông tin riêng cho đội; không phải chứng cứ trọng tài.
 - `test_defense.py`: regression test bằng thư viện chuẩn.
-- `teammates.md`: bản sao thông tin thành viên để được đóng vào bundle.
+- `TEAMMATES.md`: bản sao thông tin thành viên để được đóng vào bundle.
 
 Gateway chỉ nhận MCP/A2A/DISCOVER; ANSWER đi qua đường riêng của harness.
 Các guardrails trên câu trả lời không tự động chặn ANSWER. Prompt yêu cầu model

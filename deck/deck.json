@@ -1,6 +1,6 @@
 {
  "version": 1,
- "team": "starter-deck",
+ "team": "DauVanThach-2A202602592",
  "cards": [
   {
    "id": "atk_01",
@@ -93,10 +93,9 @@
    "id": "atk_04",
    "kind": "attack",
    "ask": {
-    "type": "define_term",
-    "term": "streamable http transport",
+    "type": "source_of",
+    "claim": "Claim:claim-032daacb/c/001",
     "require": [
-     "definition",
      "anchor"
     ]
    },
@@ -196,7 +195,7 @@
    },
    "trigger": {
     "on": "call_index",
-    "gte": 2
+    "gte": 1
    }
   },
   {
@@ -276,7 +275,7 @@
    },
    "trigger": {
     "on": "call_index",
-    "gte": 2
+    "gte": 1
    }
   },
   {
